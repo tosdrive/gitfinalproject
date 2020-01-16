@@ -6,10 +6,13 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 """
-this comment is introduced as part of the gitfinalproject
+this 1st comment is introduced as part of the gitfinalproject
 
 """
+"""
+this 2nd comment is introduced as part of the gitfinalproject
 
+"""
 """
     Asks user to specify a city, month, and day to analyze.
 
