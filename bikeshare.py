@@ -9,7 +9,10 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 this 1st comment is introduced as part of the gitfinalproject refactoring
 
 """
+"""
+this 2nd comment is introduced as part of the gitfinalproject refactoring
 
+"""
 """
     Asks user to specify a city, month, and day to analyze.
 
